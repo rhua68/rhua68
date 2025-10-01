@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Ryan Hua  
 
-<!--
-**rhua68/rhua68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ UC Irvine  
+💻 Full-stack dev (SwiftUI, React Native, Firebase)  
+🚀 Building goDutch — a social-finance app  
 
-Here are some ideas to get you started:
+## 🔧 Skills  
+- **Frontend:** SwiftUI, React Native, TypeScript, HTML, CSS  
+- **Backend:** Firebase, FastAPI  
+- **Other:** Stripe, Google Cloud, Python (AI/ML)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Focus  
+- AI/ML training experiments  
+- Scaling backend microservices  
+- Making bill-splitting less painful  
+
+## 📫 Connect with me  
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ryanhua68/) | [Email](mailto:ryanhua@email.com)  
+
+---
+💡 “If it compiles, ship it. If it doesn’t, ship it twice.”
