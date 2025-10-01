@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ryan Hua  
 
 🎓 CS Student @ UC Irvine | Full-stack Engineer in training
-💻 Full-stack dev (SwiftUI, React Native, Firebase)  
+💻 Full-stack dev (SwiftUI, React Native, React.js, Firebase)  
 🚀 Building goDutch — a social-finance app  
 
 ## 🔧 Skills  
@@ -18,9 +18,8 @@
 - AI/ML training experiments  
 - Scaling backend microservices  
 - Making bill-splitting less painful
-
-## 📊 GitHub Stats  
-![Ryan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=danielho774&show_icons=true&theme=radical)
+- Full-Stack Dev
+- UI/UX 
 
 
 ## 📫 Connect with me  
