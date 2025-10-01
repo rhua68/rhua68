@@ -20,7 +20,7 @@
 - Making bill-splitting less painful
 
 ## 📊 GitHub Stats  
-![Ryan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhua&show_icons=true&theme=radical)
+![Ryan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rhua68&show_icons=true&theme=radical)
 
 
 ## 📫 Connect with me  
