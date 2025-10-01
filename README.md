@@ -15,7 +15,7 @@
 - Making bill-splitting less painful  
 
 ## 📫 Connect with me  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ryanhua68/)) | [Email](mailto:ryanhua@email.com)  
+[LinkedIn]([(https://www.linkedin.com/in/ryanhua68/]) | [Email](mailto:ryanhua@email.com)  
 
 ---
 💡 “If it compiles, ship it. If it doesn’t, ship it twice.”
