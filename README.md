@@ -2,7 +2,7 @@
 
 🎓 CS Student @ UC Irvine | Full-stack Engineer in training
 💻 Full-stack dev (SwiftUI, React Native, React.js, Firebase)  
-🚀 Building myfantasyai - a machine learning model that predicts sports stats!
+🚀 Building myfantasygm.ai - a machine learning model that predicts sports stats!
 
 ## 🔧 Skills  
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)  
